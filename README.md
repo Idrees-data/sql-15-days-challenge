@@ -1,13 +1,14 @@
-# SQL 15 Days Challenge 🚀
+# SQL 15 Day Challenge 🚀
 
-This repository documents my **15-day SQL learning journey** using MySQL.
+I created this repository to document my **15 day learning journey in SQL** with MySQL.
 
-## Progress
-- ✅ Day 1: SQL Basics (CREATE, INSERT, SELECT)
-- ✅ Day 2: Filtering & column selection (WHERE, aliases)
-- ✅ Day 3: Advanced filtering logic (BETWEEN, IN, NOT IN, AND / OR)
-- ✅ Day 4: Aggregates, GROUP BY and HAVING
-  
-Each day includes hands-on practice queries and examples.
+## Learning Progress
+- ✅ Day 1 - SQL Fundamentals (CREATE, INSERT, SELECT)
+- ✅ Day 2 - Filtering Records and Selecting Columns (WHERE clause, column aliases)
+- ✅ Day 3 - Advanced Filtering Techniques (BETWEEN clause, IN & NOT IN clauses, AND / OR clauses)
+- ✅ Day 4 - Using Aggregate Functions, GROUP BY clause, and HAVING clause
+- ✅ Day 5 - Use of CASE WHEN statement and Difference between WHERE and HAVING clauses
 
-📌 Learning in public to stay consistent and improve every day.
+There will be examples and the queries I wrote for practice each day.
+
+📌 I will be sharing my learning experiences publicly so that I have the motivation to continue learning to become a better SQL user every day.
