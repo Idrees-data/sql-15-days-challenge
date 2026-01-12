@@ -9,6 +9,7 @@ I created this repository to document my **15 day learning journey in SQL** with
 - ✅ Day 4 - Using Aggregate Functions, GROUP BY clause, and HAVING clause
 - ✅ Day 5 - Use of CASE WHEN statement and Difference between WHERE and HAVING clauses
 - ✅ Day 6: INNER JOIN basics (students & courses)
+- ✅ Day 7: JOIN with GROUP BY and HAVING
 
 There will be examples and the queries I wrote for practice each day.
 
