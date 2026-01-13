@@ -10,6 +10,7 @@ I created this repository to document my **15 day learning journey in SQL** with
 - ✅ Day 5 - Use of CASE WHEN statement and Difference between WHERE and HAVING clauses
 - ✅ Day 6: INNER JOIN basics (students & courses)
 - ✅ Day 7: JOIN with GROUP BY and HAVING
+- ✅ Day 8: LEFT JOIN, NULL handling, and Subqueries
 
 There will be examples and the queries I wrote for practice each day.
 
