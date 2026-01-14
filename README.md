@@ -11,6 +11,7 @@ I created this repository to document my **15 day learning journey in SQL** with
 - ✅ Day 6: INNER JOIN basics (students & courses)
 - ✅ Day 7: JOIN with GROUP BY and HAVING
 - ✅ Day 8: LEFT JOIN, NULL handling, and Subqueries
+- ✅ Day 9: Window Functions (ROW_NUMBER, RANK, DENSE_RANK)
 
 There will be examples and the queries I wrote for practice each day.
 
