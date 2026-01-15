@@ -12,6 +12,11 @@ I created this repository to document my **15 day learning journey in SQL** with
 - ✅ Day 7: JOIN with GROUP BY and HAVING
 - ✅ Day 8: LEFT JOIN, NULL handling, and Subqueries
 - ✅ Day 9: Window Functions (ROW_NUMBER, RANK, DENSE_RANK)
+- ✅ Day 10: Database Schema Design
+- Designed a real-world e-commerce database
+- Implemented primary keys & foreign keys
+- Modeled one-to-many and many-to-many relationships
+- Focused on production-style schema design
 
 There will be examples and the queries I wrote for practice each day.
 
