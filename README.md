@@ -17,6 +17,12 @@ I created this repository to document my **15 day learning journey in SQL** with
 - Implemented primary keys & foreign keys
 - Modeled one-to-many and many-to-many relationships
 - Focused on production-style schema design
+- ✅ Day 11: SQL Analytics Project
+- Inserted realistic e-commerce data
+- Wrote business-focused analytics queries
+- Used joins, group by, aggregations, and null handling
+- Practiced real-world SQL problem solving
+
 
 There will be examples and the queries I wrote for practice each day.
 
