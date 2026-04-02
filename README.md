@@ -26,4 +26,4 @@ I created this repository to document my **15 day learning journey in SQL** with
 
 There will be examples and the queries I wrote for practice each day.
 
-📌 I will be sharing my learning experiences publicly so that I have the motivation to continue learning to become a better SQL user every day. 
+📌 I will be sharing my learning experiences publicly so that I have the motivation to continue learning to become a better SQL user every day.
